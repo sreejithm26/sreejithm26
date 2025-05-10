@@ -11,44 +11,7 @@
   🚀 Always curious. Always learning.
 </p>
 
----
 
-## 🛠️ Projects I'm Working On
-
-<h2>🛠️ Projects I'm Working On</h2>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="30%">
-        <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Types_of_Data_and_How_To_Analyze_Data.jpg" width="200px"><br><br>
-        <b>Molecular AI 🧬</b><br>
-        Predicting molecular properties & reactions using deep learning.
-      </td>
-      <td align="center" width="30%">
-        <img src="https://via.placeholder.com/200x120.png?text=VideoGen" width="200px"><br><br>
-        <b>VideoGen 🎞️</b><br>
-        Predicting next frames from video sequences using computer vision.
-      </td>
-      <td align="center" width="30%">
-        <img src="https://via.placeholder.com/200x120.png?text=Live+Stream+App" width="200px"><br><br>
-        <b>Live Stream App 📺</b><br>
-        Building a Twitch-like backend + scalable Android streaming app.
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <a href="https://github.com/yourusername?tab=repositories" target="_blank">
-    🔗 <b>View More Projects</b>
-  </a>
-
-</div>
-
-
----
 
 ## 🧰 Tech Toolbox
 
