@@ -2,7 +2,7 @@
 
 **M.Tech CSE | ML Systems & Inference**
 
-Hey! I'm interested in GPU computing, efficient LLM inference, compilers, and AI systems.
+Hey! I'm interested in GPU computing, efficient LLM inference, and AI systems.
 
 - ⚙️ Exploring **CUDA, & Inference optimization**
 - 🧠 Interested in **ML systems and hardware**
